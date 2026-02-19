@@ -1,6 +1,6 @@
 ## Create and Activate a Virtual Environment on Windows
 
-#(Project URL https://roadmap.sh/projects/task-tracker)
+# (Project URL https://roadmap.sh/projects/task-tracker)
 
 1. Open the terminal (cmd) and navigate to your project folder:
 
@@ -123,4 +123,5 @@ _Displays all available commands and their usage._
 exit
 
 _Closes the interactive Task Tracker CLI._
+
 
